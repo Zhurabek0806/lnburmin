@@ -121,7 +121,6 @@ namespace TextEditorApp
         {
             history.Push(
                 new FileMemento(file.Content));
-
             file.Content = newText;
         }
 
