@@ -203,7 +203,6 @@ namespace AnimalsProject
                 Console.WriteLine("1 - Показать животных");
                 Console.WriteLine("2 - Добавить животное");
                 Console.WriteLine("3 - Выход");
-
                 Console.Write("Выберите пункт: ");
 
                 string choice = Console.ReadLine();
