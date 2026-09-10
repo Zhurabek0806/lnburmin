@@ -7,7 +7,6 @@ namespace Lab1
         static void Main(string[] args)
         {
 
-
             Console.WriteLine("Задание 1");
 
             Console.Write("Введите число a: ");
