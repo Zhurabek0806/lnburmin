@@ -50,7 +50,6 @@ namespace TextCorrection
 
                 // Сохраняем изменения
                 File.WriteAllText(file, text);
-
                 Console.WriteLine(
                     "Файл обработан: " + file);
             }
